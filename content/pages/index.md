@@ -12,8 +12,9 @@ sections:
       At 1235Media, we specialize in delivering top-tier software consulting
       services to medium and large corporations. With a combined 40 years of
       experience working on large-scale projects involving streaming media,
-      physical electronic devices, and back-end services for AAA video games,
-      our team brings a wealth of expertise and a track record of success.
+      physical electronic devices, and highly scalable services for AAA video
+      games, our team brings a wealth of expertise and a track record of
+      success.
     actions:
       - label: Get started
         altText: ''
