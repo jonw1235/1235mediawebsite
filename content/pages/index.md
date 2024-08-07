@@ -9,9 +9,11 @@ sections:
       type: TitleBlock
     subtitle: Welcome
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      At 1235Media, we specialize in delivering top-tier software consulting
+      services to medium and large corporations. With a combined 40 years of
+      experience working on large-scale projects involving streaming media,
+      physical electronic devices, and back-end services for AAA video games,
+      our team brings a wealth of expertise and a track record of success.
     actions:
       - label: Get started
         altText: ''
